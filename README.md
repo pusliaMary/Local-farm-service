@@ -14,57 +14,26 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+### Local farm service
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Local farm service is a tyny plot of land, cultivated with eco-determined people, whose dream is to show the world how we all should treat ouer one and only Nature
 
-### `npm run build`
+### Description
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Small-business farmers do hard work to produce healthy fresh fruit and vegetables. 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+If farmera are eco-friendly, they are tightly limited in the way they work. They can not use harmfull chemistry< but still the pests are still there, waiting. Supermarkets buy the production and pay as less as they can, move products to the end of the world and sell unfreshy and expensive, cos they also have a lot of costs.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Our projects is made to popularize another way to make peace between produsers and customers. We say: "Buy local, get fresh". Local farms need help to set up small shops, where they could sell there production fast to preserve freshness and get as much money as customers are ready to pay. 
 
-### `npm run eject`
+We also try to bring up concsious and responsible generation. We can teach pre-school and elder children to grow plants, to use harmless things in everyday life, to lead eco-friendly lifestyle. 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Adults are welcome as well. We can allocate a plot of lend at a low charge, so you can grow plants by your own. Only one restriction is - use only ecological way.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### How to use the project
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+The project is small for now. It has a variety of products available to buy and a spectrum of services we can provide.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Need your advices
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Your are welcome to help the project to grow
